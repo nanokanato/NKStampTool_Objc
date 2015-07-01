@@ -213,6 +213,8 @@
 		303754A01B43AC6100EE4AAF /* CollectionCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 303753D41B43AC6100EE4AAF /* CollectionCell.m */; };
 		303754A11B43AC6100EE4AAF /* NewFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 303753D61B43AC6100EE4AAF /* NewFlowLayout.m */; };
 		303754A21B43AC6100EE4AAF /* StampListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 303753D81B43AC6100EE4AAF /* StampListController.m */; };
+		303754A51B43AE6400EE4AAF /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 303754A31B43AE6400EE4AAF /* LICENSE */; };
+		303754A61B43AE6400EE4AAF /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 303754A41B43AE6400EE4AAF /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -593,6 +595,8 @@
 		303753D61B43AC6100EE4AAF /* NewFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewFlowLayout.m; sourceTree = "<group>"; };
 		303753D71B43AC6100EE4AAF /* StampListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StampListController.h; sourceTree = "<group>"; };
 		303753D81B43AC6100EE4AAF /* StampListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StampListController.m; sourceTree = "<group>"; };
+		303754A31B43AE6400EE4AAF /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../../../LICENSE; sourceTree = "<group>"; };
+		303754A41B43AE6400EE4AAF /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1143,6 +1147,8 @@
 		303753C81B43AC6100EE4AAF /* NKStampEditClass */ = {
 			isa = PBXGroup;
 			children = (
+				303754A31B43AE6400EE4AAF /* LICENSE */,
+				303754A41B43AE6400EE4AAF /* README.md */,
 				303753C91B43AC6100EE4AAF /* NKEditController.h */,
 				303753CA1B43AC6100EE4AAF /* NKEditController.m */,
 				303753CB1B43AC6100EE4AAF /* NKStampClass */,
@@ -1276,6 +1282,7 @@
 				303753FD1B43AC6100EE4AAF /* Default-736h@3x.png in Resources */,
 				303753D91B43AC6100EE4AAF /* edit_add_stamp.png in Resources */,
 				303753FC1B43AC6100EE4AAF /* Default-667h@2x.png in Resources */,
+				303754A51B43AE6400EE4AAF /* LICENSE in Resources */,
 				303753FA1B43AC6100EE4AAF /* stamp_line@2x.png in Resources */,
 				303753E71B43AC6100EE4AAF /* list_close.png in Resources */,
 				303753EF1B43AC6100EE4AAF /* stamp_2_3.png in Resources */,
@@ -1313,6 +1320,7 @@
 				3037542A1B43AC6100EE4AAF /* GPUImageFastBlurFilter.m in Sources */,
 				303754921B43AC6100EE4AAF /* GPUImageUIElement.m in Sources */,
 				303754341B43AC6100EE4AAF /* GPUImageHalftoneFilter.m in Sources */,
+				303754A61B43AE6400EE4AAF /* README.md in Sources */,
 				303754541B43AC6100EE4AAF /* GPUImageMovie.m in Sources */,
 				303754561B43AC6100EE4AAF /* GPUImageMultiplyBlendFilter.m in Sources */,
 				303754911B43AC6100EE4AAF /* GPUImageTwoPassTextureSamplingFilter.m in Sources */,
